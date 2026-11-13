@@ -1,0 +1,12 @@
+Sample,Variant,CER,WER,NLS
+2,Original,0.0482,0.2946,0.9518
+2,Denoised,0.0448,0.2772,0.9552
+2,Contrast Enhanced,0.044,0.2772,0.956
+3,Original,0.8236,0.7764,0.1764
+3,Contrast Enhanced,0.8236,0.7795,0.1764
+3,Denoised,0.8238,0.7764,0.1762
+4,Original,0.9581,0.9477,0.0419
+4,Contrast Enhanced,0.9581,0.948,0.0419
+4,Denoised,0.9582,0.948,0.0418
+5,Original,0.0415,0.2844,0.9585
+5,Contrast Enhanced,0.0415,0.2844,0.9585
